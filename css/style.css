@@ -110,7 +110,8 @@ section {
     }
 
     .grid>div p {
-        transition: all ease 300ms
+        transition: all ease 300ms; 
+        font-size:30px;
     }
 
     /* transition */
